@@ -1,0 +1,15 @@
+#error {
+    background-color: #F56236;
+}
+
+#warning {
+    background-color: #FCE788;
+}
+
+#info {
+    background-color: #88FCA3;
+}
+
+#clear {
+    opacity: 10;
+}
